@@ -38,5 +38,5 @@ function displayProducts(products) {
   });
 }
 
-// Fetch and display products when the page loads
+
 fetchProducts();
